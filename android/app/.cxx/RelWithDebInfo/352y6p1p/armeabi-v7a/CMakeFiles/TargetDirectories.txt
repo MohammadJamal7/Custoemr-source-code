@@ -1,0 +1,2 @@
+/Users/sidhi/Documents/GitHub/GoRide/customer/android/app/.cxx/RelWithDebInfo/352y6p1p/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/sidhi/Documents/GitHub/GoRide/customer/android/app/.cxx/RelWithDebInfo/352y6p1p/armeabi-v7a/CMakeFiles/rebuild_cache.dir

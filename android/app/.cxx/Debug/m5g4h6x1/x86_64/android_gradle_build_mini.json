@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\AbdoE\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\AbdoE\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\Flutter\\Edit Projects\\GoRide-5.2\\customer\\android\\app\\.cxx\\Debug\\m5g4h6x1\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\AbdoE\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\Flutter\\Edit Projects\\GoRide-5.2\\customer\\android\\app\\.cxx\\Debug\\m5g4h6x1\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

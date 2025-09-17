@@ -1,0 +1,219 @@
+{
+  "project_info": {
+    "project_number": "328097407117",
+    "firebase_url": "https://wdni-518ff-default-rtdb.firebaseio.com",
+    "project_id": "wdni-518ff",
+    "storage_bucket": "wdni-518ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328097407117:android:77a46c5fcfe71c7409c2c4",
+        "android_client_info": {
+          "package_name": "com.wdni.customers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328097407117-9f8rgr1kt6l9tpnv4mm9mttm18qp6ka5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.customers",
+            "certificate_hash": "3a90170d06a371ec0ac3fa840addda1bfd05b0ae"
+          }
+        },
+        {
+          "client_id": "328097407117-aq6agb4nu3iio0g3dtbns7neam97o4c0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.customers",
+            "certificate_hash": "d17cc73bbe21e6e090469cbc7f27b47ce05cc2ba"
+          }
+        },
+        {
+          "client_id": "328097407117-fegtk4un367e8jtlmvs1aekhf3mv00rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.customers",
+            "certificate_hash": "a9652cbe9aa58716d16b8288d9940b8e0c01868b"
+          }
+        },
+        {
+          "client_id": "328097407117-fni68n2d0pcans3bk14pvjmnmgm0a60a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.customers",
+            "certificate_hash": "7adf058ce477e14bcd58f7cc73eaed87b09c1e27"
+          }
+        },
+        {
+          "client_id": "328097407117-g1rhurq6mdiom6i99lflkikgnrmbg00u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.customers",
+            "certificate_hash": "1d8517b54119987ba9575d6e2b818bd439ce3d15"
+          }
+        },
+        {
+          "client_id": "328097407117-h6b4uk8g87712fpmvks4dvi1fo0s2lc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.customers",
+            "certificate_hash": "788b65d4c2372d3877329fd846d15736e2eab62a"
+          }
+        },
+        {
+          "client_id": "328097407117-qtnmv9fnbr529fi7bumv5n8rdkqhi630.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.customers",
+            "certificate_hash": "939c138e843572d42f58adb858a6443e64fbe5d1"
+          }
+        },
+        {
+          "client_id": "328097407117-rc5fsmvfnf0q6lg60lmktpesr8atotnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.customers",
+            "certificate_hash": "5e5939a02964fff14b68c533f6d98d0cee50a880"
+          }
+        },
+        {
+          "client_id": "328097407117-rcfcfk179e5krrluj7u6blm15nh8dp20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.customers",
+            "certificate_hash": "48f1d9cc2198cff572c68bfa02bc1137bf2e3cea"
+          }
+        },
+        {
+          "client_id": "328097407117-qm34jl3gorrv01sbk6m75p6i89ajute4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbJj38j_YTC5IjdTFIrsdBY8ZPCKt5jd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328097407117-qm34jl3gorrv01sbk6m75p6i89ajute4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328097407117-0kc2l2csfevkltarneilta44jg7apnrc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goride.driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328097407117:android:5ad0d6ff236f4d1a09c2c4",
+        "android_client_info": {
+          "package_name": "com.wdni.drivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328097407117-0oqdnfp5flebqs93no1u39fvhhmpb9po.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.drivers",
+            "certificate_hash": "d17cc73bbe21e6e090469cbc7f27b47ce05cc2ba"
+          }
+        },
+        {
+          "client_id": "328097407117-0uu5b4luifdtukop5t6c1jrmpkn2e61q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.drivers",
+            "certificate_hash": "7adf058ce477e14bcd58f7cc73eaed87b09c1e27"
+          }
+        },
+        {
+          "client_id": "328097407117-33oumd2u8203i25easvsaj6uv9nm450c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.drivers",
+            "certificate_hash": "1d8517b54119987ba9575d6e2b818bd439ce3d15"
+          }
+        },
+        {
+          "client_id": "328097407117-ago7o8694tpegqq5dcuicp2qdk4hnsdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.drivers",
+            "certificate_hash": "5e5939a02964fff14b68c533f6d98d0cee50a880"
+          }
+        },
+        {
+          "client_id": "328097407117-fsgtfo71ulm50ppj5e3mrcfg418in1k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.drivers",
+            "certificate_hash": "17f85e577cc0ed9633cb901e7aff62c8f5bf7ae4"
+          }
+        },
+        {
+          "client_id": "328097407117-lfpcqom8mcvsn5n8mkn6j761n09cgcst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.drivers",
+            "certificate_hash": "bdabfb6ee4fb23a1b6ecdd8fd8761860af5478a1"
+          }
+        },
+        {
+          "client_id": "328097407117-m12pnjkpaa88jl7vl025h2dafjfvs6h8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.drivers",
+            "certificate_hash": "48f1d9cc2198cff572c68bfa02bc1137bf2e3cea"
+          }
+        },
+        {
+          "client_id": "328097407117-n5m4605dksbm6tjbodpbc1gq2qm6mbm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wdni.drivers",
+            "certificate_hash": "a9652cbe9aa58716d16b8288d9940b8e0c01868b"
+          }
+        },
+        {
+          "client_id": "328097407117-qm34jl3gorrv01sbk6m75p6i89ajute4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbJj38j_YTC5IjdTFIrsdBY8ZPCKt5jd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328097407117-qm34jl3gorrv01sbk6m75p6i89ajute4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328097407117-0kc2l2csfevkltarneilta44jg7apnrc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goride.driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
