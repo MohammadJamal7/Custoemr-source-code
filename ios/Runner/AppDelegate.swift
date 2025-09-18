@@ -12,14 +12,20 @@ import FirebaseCore
   ) -> Bool {
       FirebaseApp.configure()
       GMSServices.provideAPIKey("AIzaSyB6M2CwWg_-UV-OgNawX_0Vl5U21VH23GU")
-      FlutterLocalNotificationsPlugin.setPluginRegistrantCallback { (registry) in
-            GeneratedPluginRegistrant.register(with: registry)
-      }
-
+      
+      // Fix for plugin registration crashes
       if #available(iOS 10.0, *) {
           UNUserNotificationCenter.current().delegate = self as UNUserNotificationCenterDelegate
       }
-    GeneratedPluginRegistrant.register(with: self)
-    return super.application(application, didFinishLaunchingWithOptions: launchOptions)
+      
+      // Register plugins with error handling
+      FlutterLocalNotificationsPlugin.setPluginRegistrantCallback { (registry) in
+          GeneratedPluginRegistrant.register(with: registry)
+      }
+      
+      // Safe plugin registration
+      GeneratedPluginRegistrant.register(with: self)
+      
+      return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
 }

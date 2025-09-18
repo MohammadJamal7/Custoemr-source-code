@@ -13,11 +13,22 @@ import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:get/get.dart';
 import 'package:provider/provider.dart';
+import 'package:connectivity_plus/connectivity_plus.dart';
+import 'dart:io';
 
 import 'utils/Preferences.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
+  // iOS 18 beta workaround for URLSessionConfiguration crash
+  if (Platform.isIOS) {
+    try {
+      await Connectivity().checkConnectivity();
+    } catch (e) {
+      print("Connectivity check failed: $e");
+    }
+  }
 
   if (Firebase.apps.isEmpty) {
     await Firebase.initializeApp(
